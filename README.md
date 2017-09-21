@@ -1,1 +1,1 @@
-# jenkinslibs
+# jenkins-shared
